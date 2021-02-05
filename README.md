@@ -1,4 +1,4 @@
-# 最简单的py to exe文件
+# 最简单的py to exe方法
 ### 运行方式：
 1、使用pip安装py2exe库 
 ```cmd
